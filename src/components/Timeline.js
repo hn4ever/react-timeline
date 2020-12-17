@@ -3,7 +3,7 @@ import './Timeline.css';
 import TimelineEvent from './TimelineEvent';
 
 const Timeline = () => {
-  
+  // to get all the data of events here
   return;
 }
 
